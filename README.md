@@ -17,4 +17,3 @@ math.floor
 
 math.random
 
-* The password is generated for the user .
